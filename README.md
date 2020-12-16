@@ -1,5 +1,5 @@
 # Docker Mastery: With Kubernetes + swarm from a Docker Captain
-
+![](Assets/1_Yo7ixCaV3BGK-vrNKdPwAg.png)
 ## About this course
 
 Build, test, deploy containers with the best course on Docker, Kubernetes , Compose, Swarm and Registry using DevOps.
